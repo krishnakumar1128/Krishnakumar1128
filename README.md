@@ -16,8 +16,8 @@ I'm Krishna from India, and pursuing Bachelors in Electrical Engineering. I real
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/52012982/122687764-b6fbff80-d235-11eb-8e91-e7ce061f5b92.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/52012982/122687767-ba8f8680-d235-11eb-8f11-7f7737e55685.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/52012982/122687764-b6fbff80-d235-11eb-8e91-e7ce061f5b92.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 <img alt="Programmer || Developer" width="300" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" align="right">
 
