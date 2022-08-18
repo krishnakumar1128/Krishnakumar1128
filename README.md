@@ -1,7 +1,7 @@
 ## Hola! I'm Krishna Kumar👋
 <img alt="Programmer || Developer" width="340" src="https://raw.githubusercontent.com/Jannis/jannis/main/graph-developer.png" align="right">
 
-I'm Krishna from India, and pursuing Bachelors in Electrical Engineering. I really enjoyed learning new languages like C, Python etc. as well as learning Data Structure.
+I'm Krishna from India, and pursuing Bachelors in Electrical & Electronic Engineering. I really enjoyed learning new languages like C, Python etc. as well as learning Data Structure.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakumar1128&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna Kumar" /> </p>
 
