@@ -3,7 +3,7 @@
 
 I'm Krishna from India, and pursuing Bachelors in Electrical Engineering. I really enjoyed learning new languages like C, Python etc. as well as learning Data Structure.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etendra2501&label=Profile%20views&color=0e75b6&style=flat" alt="Etendra Verma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakumar1128&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna Kumar" /> </p>
 
 - 🔭 I’m interested to learn more about DSA and Web Development.
 - 🌱 I’m currently learning Data Structure.
