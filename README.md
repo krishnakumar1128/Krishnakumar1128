@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hola! I'm Krishna Kumar👋
+<img alt="Programmer || Developer" width="340" src="https://raw.githubusercontent.com/Jannis/jannis/main/graph-developer.png" align="right">
 
-<!--
-**krishnakumar1128/Krishnakumar1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Krishna from India, and pursuing Bachelors in Electrical Engineering. I really enjoyed learning new languages like C, Python etc. as well as learning Data Structure.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=etendra2501&label=Profile%20views&color=0e75b6&style=flat" alt="Etendra Verma" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m interested to learn more about DSA and Web Development.
+- 🌱 I’m currently learning Data Structure.
+- 👯 I’m looking to collaborate in Open Source Project.
+- 😄 Ask me about anything.
+
+## 🧰 Languages and Tools:
+<p align="left">
+<img src="https://user-images.githubusercontent.com/52012982/122687375-c8440c80-d233-11eb-81b8-a7850204ece8.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/52012982/122687764-b6fbff80-d235-11eb-8e91-e7ce061f5b92.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/52012982/122687767-ba8f8680-d235-11eb-8f11-7f7737e55685.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+</p>
+<img alt="Programmer || Developer" width="300" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" align="right">
